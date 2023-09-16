@@ -1,0 +1,86 @@
+#container {
+			width: 900px;
+			height: 490px;
+			position: absolute;/*位置*/
+            margin: auto;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+			text-align: center;
+		}
+
+		#header {
+			width: 900px;
+			height: 150px;
+			background: #B2EA89;
+		}
+
+		#navbar {
+			width: 900px;
+			height: 50px;
+			background: #7DD5A1;
+		}
+
+		#menu {
+			width: 250px;
+			height: 250px;
+			float: left;
+			background: #64BCAC;
+		}
+
+		#sidebar {
+			width: 250px;
+			height: 250px;
+			float: right;
+			background: #64BCAC;
+		}
+
+		#main {
+			width: 400px;
+			height: 250px;
+			float: left;
+			background: #F9F871;
+		}
+
+		#footer {
+			width: 900px;
+			height: 40px;
+			background: #B2EA89;
+		}
+		#all{
+			width: 900px;
+			height: 250px;
+		}
+		p{
+			display: inline;
+		}
+		#first{
+			width: 900px;
+			height: 490px;
+			position: absolute;/*位置*/
+            margin: auto;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+			text-align: center;
+			background: #64BCAC;
+		}
+		#second{
+			width: 900px;
+			height: 50px;
+			background: #B2EA89;
+			margin-top: 290px;
+		}
+		#third{
+			width: 200px;
+			height: 490px;
+			background: #B2EA89;
+		}
+		#fourth{
+			width: 200px;
+			height: 490px;
+			background: #7DD5A1;
+		
+		}
